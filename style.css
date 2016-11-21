@@ -1,5 +1,21 @@
+.jumbotron
+{
+	background-image:url('dark_embroidery.png');
+	background-attachment:fixed;
+	min-height:200px;
+	margin-bottom:0px;
+}
+#descriptor{
+	color:white;
+}
+.col-md-9{
+	background:red;
+}
 body{
-	background-color:#cc0000;
+	background-image:url('dark_embroidery.png');
+	background-attachment:fixed;
+	min-height:200px;
+	margin-bottom:0px;
 }
 h1{
 	text-decoration:underlined;
